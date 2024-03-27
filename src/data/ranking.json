@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "product": {
+            "title": "Galactic Heroes",
+            "slug": "/collection",
+            "image": {
+                "src": "/images/portfolio/portfolio-07.jpg"
+            }
+        },
+        "volume": "400",
+        "24h%": {
+            "charge": "310.63%",
+            "status": "+"
+        },
+        "7d%": {
+            "charge": "62.21%",
+            "status": "+"
+        },
+        "floor_price": "300",
+        "owners": "200",
+        "items": "800"
+    },
+    {
+        "id": 2,
+        "product": {
+            "title": "Celestial Dreams",
+            "slug": "/collection",
+            "image": {
+                "src": "/images/portfolio/portfolio-06.jpg"
+            }
+        },
+        "volume": "250",
+        "24h%": {
+            "charge": "220.51%",
+            "status": "-"
+        },
+        "7d%": {
+            "charge": "45.38%",
+            "status": "+"
+        },
+        "floor_price": "250",
+        "owners": "150",
+        "items": "700"
+    },
+    {
+        "id": 3,
+        "product": {
+            "title": "Stellar Odyssey",
+            "slug": "/collection",
+            "image": {
+                "src": "/images/portfolio/portfolio-05.jpg"
+            }
+        },
+        "volume": "180",
+        "24h%": {
+            "charge": "170.38%",
+            "status": "-"
+        },
+        "7d%": {
+            "charge": "32.45%",
+            "status": "-"
+        },
+        "floor_price": "200",
+        "owners": "100",
+        "items": "600"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "text": "Explore Collection",
+        "path": "/"
+    },
+    {
+        "id": 1,
+        "text": "Trending",
+        "path": "/ranking"
+    },
+    {
+        "id": 1,
+        "text": "Create NFT",
+        "path": "/upload-variants"
+    },
+    {
+        "id": 1,
+        "text": "Loans",
+        "path": "/login"
+    }
+]
